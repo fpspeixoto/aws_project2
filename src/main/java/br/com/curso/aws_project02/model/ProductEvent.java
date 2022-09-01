@@ -1,4 +1,4 @@
-package br.com.siecola.aws_project02.model;
+package br.com.curso.aws_project02.model;
 
 public class ProductEvent {
     private long productId;
